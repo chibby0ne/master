@@ -1,0 +1,1 @@
+This version applies Min Sum Split Row taking into account real edges an a threshold of real edges, meaning that it only applies Split Row in CNGs that have more that have more edges than edge threshold
